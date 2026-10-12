@@ -87,8 +87,10 @@ Each page contains an editable title, description, canonical URL, semantic headi
 - Planned preview guide: https://cleaning-site-1.vercel.app/preview
 - Source repository: https://github.com/colonnamedia/Cleaning-Site-1
 - Storefront: https://fireworks-websitebuilder.com/WebsiteCollection
-- Source and storefront commit SHAs are recorded after deployment.
-- `npm test` verifies page inventory, internal links, metadata, demo disclosure, required intake fields, provider gates, and the optimized hero asset.
+- Source commit: `f9f0ec2e88b26c32587544919e9164801fb4d817`.
+- `npm test` passed on October 12, 2026: eight pages, internal routes, intake fields, demo safety, provider gates, and the 74 KB optimized WebP hero were verified.
+- Vercel import is configured for `colonnamedia/Cleaning-Site-1` with project name `cleaning-site-1`; production deployment and public/browser QA remain pending the final Vercel deployment action.
+- Storefront publication remains intentionally pending until the public deployment can be verified, so the catalog does not publish a broken demo link.
 
 ## Future design variants
 
