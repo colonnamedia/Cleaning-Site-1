@@ -83,14 +83,16 @@ Each page contains an editable title, description, canonical URL, semantic headi
 
 ## Preview, commits, and tests
 
-- Planned live demo: https://cleaning-site-1.vercel.app/
-- Planned preview guide: https://cleaning-site-1.vercel.app/preview
+- Live demo: https://cleaning-site-1-ivory.vercel.app/
+- Preview guide: https://cleaning-site-1-ivory.vercel.app/preview
 - Source repository: https://github.com/colonnamedia/Cleaning-Site-1
 - Storefront: https://fireworks-websitebuilder.com/WebsiteCollection
-- Source commit: `f9f0ec2e88b26c32587544919e9164801fb4d817`.
+- Source build commit: `f9f0ec2e88b26c32587544919e9164801fb4d817`.
+- Vercel configuration fix: `72a3cd041778e506ba8723e4b15da60765bb1830`.
 - `npm test` passed on October 12, 2026: eight pages, internal routes, intake fields, demo safety, provider gates, and the 74 KB optimized WebP hero were verified.
-- Vercel import is configured for `colonnamedia/Cleaning-Site-1` with project name `cleaning-site-1`; production deployment and public/browser QA remain pending the final Vercel deployment action.
-- Storefront publication remains intentionally pending until the public deployment can be verified, so the catalog does not publish a broken demo link.
+- Vercel production deployment `dpl_9KAaBd5yS1Xq1PMN9bRTmRWDs9sK` is READY and assigned to https://cleaning-site-1-ivory.vercel.app/.
+- All eight HTML routes and the hero asset returned HTTP 200. Desktop hero and navigation were visually checked, and the quote form completed with a local-only confirmation stating that nothing was sent, stored, booked, uploaded, or charged.
+- Storefront publication is pending the FireWorks catalog commit and live verification.
 
 ## Future design variants
 

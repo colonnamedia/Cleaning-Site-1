@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://cleaning-site-1.vercel.app/sitemap.xml
+Sitemap: https://cleaning-site-1-ivory.vercel.app/sitemap.xml
