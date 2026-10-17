@@ -90,9 +90,9 @@ Each page contains an editable title, description, canonical URL, semantic headi
 - Source build commit: `f9f0ec2e88b26c32587544919e9164801fb4d817`.
 - Vercel configuration fix: `72a3cd041778e506ba8723e4b15da60765bb1830`.
 - `npm test` passed on October 12, 2026: eight pages, internal routes, intake fields, demo safety, provider gates, and the 74 KB optimized WebP hero were verified.
-- Vercel production deployment `dpl_9KAaBd5yS1Xq1PMN9bRTmRWDs9sK` is READY and assigned to https://cleaning-site-1-ivory.vercel.app/.
+- Vercel production deployment `dpl_9AwnVX4DkTTcDzpBkD17oCKfQXa9` is READY and assigned to https://cleaning-site-1-ivory.vercel.app/.
 - All eight HTML routes and the hero asset returned HTTP 200. Desktop hero and navigation were visually checked, and the quote form completed with a local-only confirmation stating that nothing was sent, stored, booked, uploaded, or charged.
-- Storefront publication is pending the FireWorks catalog commit and live verification.
+- FireWorks storefront commit `189d64d037579e09e598133a37a0d2c8fa9cf60f` publishes the template as Featured and Available. The Collection card, hero preview, detail modal, Home newest placement, $1,499 build price, $499/year or $59.99/month Standard hosting, $20/year domain and checkout totals were verified live.
 
 ## Future design variants
 
