@@ -101,3 +101,8 @@ Each page contains an editable title, description, canonical URL, semantic headi
 - Premium luxury-home editorial variant
 - Eco-forward palette and product-detail variant
 - Medical or regulated-facility variant only after verified compliance and operational requirements are supplied
+
+
+## Homepage image audit — October 19, 2026
+
+Added three distinct supporting stock photographs to the homepage, with responsive layout, descriptive alt text, explicit dimensions, lazy loading and local optimized WebP assets. Existing hero imagery remains. Source and license references are in `PHOTO-SOURCES.md`. Standing rule: every homepage should contain four to five distinct, relevant photographs; repeated hero crops and logos do not count.
